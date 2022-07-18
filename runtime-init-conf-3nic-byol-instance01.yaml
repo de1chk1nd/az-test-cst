@@ -51,7 +51,7 @@ extension_services:
           My_License:
             class: License
             licenseType: regKey
-            regKey: MKHBQ-HKQFG-SGCRZ-WHGQP-FQNGGQV
+            regKey: EIEDF-XNHZL-DMQOS-JVXGY-WBDVTCN
           admin:
             class: User
             userType: regular
